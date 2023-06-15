@@ -16,14 +16,23 @@ The home page includes a logout button. Clicking the logout button removes the u
 
 # Installation
 Clone the repository or download the source code:
+
 shell
+
 Copy code
+
 git clone (https://github.com/kavya-sri-Kalepu/register-login-page.git)
+
 Install the dependencies using npm or Yarn:
+
 shell
+
 Copy code
+
 npm install
+
 or
+
 
 # shell
 Copy code
