@@ -36,36 +36,61 @@ or
 
 # shell
 Copy code
+
 yarn install
+
 Usage
+
 Start the development server:
+
 shell
+
 Copy code
+
 npm start
+
 or
+
 
 # shell
 Copy code
+
 yarn start
+
 Open your web browser and navigate to http://localhost:3000 to access the application.
+
 Folder Structure
+
 The project structure is organized as follows:
 
+
 src: Contains the source code of the application.
+
 components: Contains the React components.
+
 actions: Contains the Redux actions.
+
 reducers: Contains the Redux reducers.
+
 App.js: The main entry point of the application.
+
 public: Contains the public files for the application.
-Dependencies
+
+# Dependencies
 The main dependencies used in this project are:
 
 React
+
 React Router DOM
+
 Redux
+
 React Redux
+
 React Bootstrap
+
 For a complete list of dependencies, please refer to the package.json file.
 
-Contributing
+
+# Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
